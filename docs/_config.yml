@@ -1,0 +1,7 @@
+# Jekyll Configuration for GitHub Pages
+theme: jekyll-theme-cayman
+title: ChickenHawkStronk
+description: A powerful application for tracking and managing chicken hawk statistics
+show_downloads: true
+google_analytics:
+lang: en-US
